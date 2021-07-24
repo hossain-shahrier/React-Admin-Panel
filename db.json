@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post One",
+      "body": "This is the post body for 2\n",
+      "publishedAt": "2021-10-07"
+    },
+    {
+      "id": 2,
+      "title": "Post Two v2",
+      "body": "This is the post body",
+      "publishedAt": "2021-10-07"
+    },
+    {
+      "title": "Shondha Artwork",
+      "body": "lorem ipsum",
+      "publishedAt": "2021-02-12",
+      "id": 3
+    },
+    {
+      "title": "Front end | React | Node | Express | GraphQl | MongoDB | React-Native ",
+      "body": "dassadsadasdasdsad",
+      "publishedAt": "1999-12-05",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "shahrier Hossain",
+      "email": "hossainshahrier.sh@gmail.com"
+    },
+    {
+      "name": "Shahrier Hossain Mahin",
+      "email": "shahriermahin@gmail.com",
+      "id": 2
+    }
+  ]
+}
